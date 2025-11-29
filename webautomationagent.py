@@ -10,7 +10,7 @@ import google.generativeai as genai
 # CONFIGURATION
 # ==========================================
 # 1. PASTE YOUR GEMINI API KEY HERE
-GEMINI_API_KEY = "AIzaSyCSE1ub3e_GlEbI5maUVl5a76RPbHXhvZk"
+GEMINI_API_KEY = ""
 
 # 2. GLOBAL VARIABLES (Will be overwritten by user input)
 TARGET_URL = "https://www.wikipedia.org/"
